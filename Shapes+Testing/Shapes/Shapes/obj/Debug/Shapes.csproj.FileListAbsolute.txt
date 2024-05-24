@@ -1,0 +1,10 @@
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\44747\Documents\Peregrine\Coding\Shapes\Shapes\obj\Debug\Shapes.pdb

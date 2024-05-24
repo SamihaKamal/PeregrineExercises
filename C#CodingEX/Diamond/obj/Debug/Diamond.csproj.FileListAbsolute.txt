@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\bin\Debug\Diamond.exe
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\bin\Debug\Diamond.pdb
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\obj\Debug\Diamond.exe
+C:\Users\44747\Documents\Peregrine\Coding\Diamond\obj\Debug\Diamond.pdb

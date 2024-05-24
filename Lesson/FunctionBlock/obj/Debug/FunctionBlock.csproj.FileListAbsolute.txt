@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\bin\Debug\FunctionBlock.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\bin\Debug\FunctionBlock.exe
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\bin\Debug\FunctionBlock.pdb
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\obj\Debug\FunctionBlock.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\obj\Debug\FunctionBlock.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\obj\Debug\FunctionBlock.exe
+C:\Users\44747\Documents\Peregrine\Coding\FunctionBlock\obj\Debug\FunctionBlock.pdb

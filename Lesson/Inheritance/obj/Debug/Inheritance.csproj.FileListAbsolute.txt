@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\44747\Documents\Peregrine\Coding\Inheritance\obj\Debug\Inheritance.pdb

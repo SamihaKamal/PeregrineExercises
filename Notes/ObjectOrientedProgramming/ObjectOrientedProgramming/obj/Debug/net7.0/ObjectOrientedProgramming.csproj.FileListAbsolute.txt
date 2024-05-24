@@ -1,0 +1,14 @@
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net7.0\ObjectOrientedProgramming.exe
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net7.0\ObjectOrientedProgramming.deps.json
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net7.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net7.0\ObjectOrientedProgramming.dll
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net7.0\ObjectOrientedProgramming.pdb
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.dll
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\refint\ObjectOrientedProgramming.dll
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.pdb
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\44747\Documents\Peregrine\Coding\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net7.0\ref\ObjectOrientedProgramming.dll

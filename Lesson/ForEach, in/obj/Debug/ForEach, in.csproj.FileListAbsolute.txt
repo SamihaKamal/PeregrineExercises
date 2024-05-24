@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\bin\Debug\ForEach, in.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\bin\Debug\ForEach, in.exe
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\bin\Debug\ForEach, in.pdb
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\obj\Debug\ForEach, in.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\obj\Debug\ForEach, in.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\obj\Debug\ForEach, in.exe
+C:\Users\44747\Documents\Peregrine\Coding\ForEach, in\obj\Debug\ForEach, in.pdb

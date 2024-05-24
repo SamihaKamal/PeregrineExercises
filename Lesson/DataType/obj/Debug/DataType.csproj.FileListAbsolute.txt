@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\DataType\bin\Debug\DataType.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\DataType\bin\Debug\DataType.exe
+C:\Users\44747\Documents\Peregrine\Coding\DataType\bin\Debug\DataType.pdb
+C:\Users\44747\Documents\Peregrine\Coding\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\DataType\obj\Debug\DataType.exe
+C:\Users\44747\Documents\Peregrine\Coding\DataType\obj\Debug\DataType.pdb

@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\bin\Debug\StringReversal.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\bin\Debug\StringReversal.exe
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\bin\Debug\StringReversal.pdb
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\obj\Debug\StringReversal.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\obj\Debug\StringReversal.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\obj\Debug\StringReversal.exe
+C:\Users\44747\Documents\Peregrine\Coding\StringReversal\obj\Debug\StringReversal.pdb

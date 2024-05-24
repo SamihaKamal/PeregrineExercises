@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\bin\Debug\NextPrimeNumber.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\bin\Debug\NextPrimeNumber.exe
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\bin\Debug\NextPrimeNumber.pdb
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\obj\Debug\NextPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\obj\Debug\NextPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\obj\Debug\NextPrimeNumber.exe
+C:\Users\44747\Documents\Peregrine\Coding\NextPrimeNumber\obj\Debug\NextPrimeNumber.pdb

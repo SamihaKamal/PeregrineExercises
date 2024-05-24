@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\FirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81BD7C5-D0C8-4B7E-B60E-124DF68D6C47}|..\\FunctionBlock\\FunctionBlock.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\functionblock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2FD2F5-8071-4F0D-B8B6-0D1CB507ECAC}|..\\ForEach, in\\ForEach, in.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\foreach, in\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056CD1D-B79D-418C-9CF7-68BA108C0DDC}|..\\Loops\\Loops.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D8E58B-5DD8-401B-BCC2-0249BA467246}|..\\Switch_Case\\Switch_Case.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\switch_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACCCAF5-A2B7-4827-88B6-6BF852E567C3}|..\\If_Else\\If_Else.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24326572-0F29-4319-BDA6-904508A6F151}|FirstApp.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24326572-0F29-4319-BDA6-904508A6F151}|FirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3219B9DE-5A65-4315-A01D-AD7F9E592C25}|..\\DataType\\DataType.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\FunctionBlock\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FunctionBlock\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\FunctionBlock\\Program.cs",
+              "RelativeToolTip": "..\\FunctionBlock\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:49:20.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\ForEach, in\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ForEach, in\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\ForEach, in\\Program.cs",
+              "RelativeToolTip": "..\\ForEach, in\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:47:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\Loops\\Program.cs",
+              "RelativeToolTip": "..\\Loops\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:38:58.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\Switch_Case\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Switch_Case\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\Switch_Case\\Program.cs",
+              "RelativeToolTip": "..\\Switch_Case\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDMAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:30:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\If_Else\\Program.cs",
+              "RelativeDocumentMoniker": "..\\If_Else\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\If_Else\\Program.cs",
+              "RelativeToolTip": "..\\If_Else\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:24:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\DataType\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DataType\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\DataType\\Program.cs",
+              "RelativeToolTip": "..\\DataType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:21:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\FirstApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:20:26.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\bin\Debug\PrimeAtNthPosition.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\bin\Debug\PrimeAtNthPosition.exe
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\bin\Debug\PrimeAtNthPosition.pdb
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\obj\Debug\PrimeAtNthPosition.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\obj\Debug\PrimeAtNthPosition.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\obj\Debug\PrimeAtNthPosition.exe
+C:\Users\44747\Documents\Peregrine\Coding\PrimeAtNthPosition\obj\Debug\PrimeAtNthPosition.pdb

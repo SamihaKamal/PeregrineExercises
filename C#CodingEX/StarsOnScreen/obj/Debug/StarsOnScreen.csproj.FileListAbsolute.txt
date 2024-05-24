@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\bin\Debug\StarsOnScreen.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\bin\Debug\StarsOnScreen.exe
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\bin\Debug\StarsOnScreen.pdb
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\obj\Debug\StarsOnScreen.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\obj\Debug\StarsOnScreen.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\obj\Debug\StarsOnScreen.exe
+C:\Users\44747\Documents\Peregrine\Coding\StarsOnScreen\obj\Debug\StarsOnScreen.pdb

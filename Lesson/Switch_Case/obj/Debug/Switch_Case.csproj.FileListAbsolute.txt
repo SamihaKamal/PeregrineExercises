@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\bin\Debug\Switch_Case.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\bin\Debug\Switch_Case.exe
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\bin\Debug\Switch_Case.pdb
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\obj\Debug\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\obj\Debug\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\obj\Debug\Switch_Case.exe
+C:\Users\44747\Documents\Peregrine\Coding\Switch_Case\obj\Debug\Switch_Case.pdb

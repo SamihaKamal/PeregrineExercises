@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\obj\Debug\SumOfDigits.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\44747\Documents\Peregrine\Coding\SumOfDigits\obj\Debug\SumOfDigits.pdb
