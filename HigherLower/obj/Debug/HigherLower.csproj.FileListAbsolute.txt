@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\bin\Debug\HigherLower.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\bin\Debug\HigherLower.exe
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\bin\Debug\HigherLower.pdb
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\obj\Debug\HigherLower.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\obj\Debug\HigherLower.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\obj\Debug\HigherLower.exe
+C:\Users\44747\Documents\Peregrine\Coding\HigherLower\obj\Debug\HigherLower.pdb
