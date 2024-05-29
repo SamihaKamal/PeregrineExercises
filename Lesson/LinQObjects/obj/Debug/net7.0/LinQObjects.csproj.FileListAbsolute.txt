@@ -1,0 +1,14 @@
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\bin\Debug\net7.0\LinQObjects.exe
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\bin\Debug\net7.0\LinQObjects.deps.json
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\bin\Debug\net7.0\LinQObjects.runtimeconfig.json
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\bin\Debug\net7.0\LinQObjects.dll
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\bin\Debug\net7.0\LinQObjects.pdb
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.AssemblyInfo.cs
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.dll
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\refint\LinQObjects.dll
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.pdb
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\LinQObjects.genruntimeconfig.cache
+C:\Users\44747\Documents\Peregrine\Coding\LinQObjects\obj\Debug\net7.0\ref\LinQObjects.dll
