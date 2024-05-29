@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E5018B-AA7C-44FF-A099-246AD0D53F21}|HangmanWinForms.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\hangmanwinforms\\files\\word.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13E5018B-AA7C-44FF-A099-246AD0D53F21}|HangmanWinForms.csproj|solutionrelative:files\\word.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E5018B-AA7C-44FF-A099-246AD0D53F21}|HangmanWinForms.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\hangmanwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13E5018B-AA7C-44FF-A099-246AD0D53F21}|HangmanWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E5018B-AA7C-44FF-A099-246AD0D53F21}|HangmanWinForms.csproj|c:\\users\\44747\\documents\\peregrine\\coding\\hangmanwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E5018B-AA7C-44FF-A099-246AD0D53F21}|HangmanWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "word.txt",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\Files\\word.txt",
+              "RelativeDocumentMoniker": "Files\\word.txt",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\Files\\word.txt",
+              "RelativeToolTip": "Files\\word.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T09:26:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwGEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:42:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\Peregrine\\Coding\\HangmanWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:34:58.838Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

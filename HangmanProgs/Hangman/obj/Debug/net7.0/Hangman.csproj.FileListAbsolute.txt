@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\bin\Debug\net7.0\Hangman.exe
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\bin\Debug\net7.0\Files\word.txt
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\bin\Debug\net7.0\Hangman.deps.json
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\bin\Debug\net7.0\Hangman.runtimeconfig.json
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\bin\Debug\net7.0\Hangman.dll
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\bin\Debug\net7.0\Hangman.pdb
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.AssemblyInfo.cs
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.dll
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\refint\Hangman.dll
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.pdb
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\Hangman.genruntimeconfig.cache
+C:\Users\44747\Documents\Peregrine\Coding\Hangman\obj\Debug\net7.0\ref\Hangman.dll

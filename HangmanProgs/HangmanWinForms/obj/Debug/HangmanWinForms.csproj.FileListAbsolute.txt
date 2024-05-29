@@ -1,0 +1,11 @@
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.Form1.resources
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.Properties.Resources.resources
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.csproj.GenerateResource.cache
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\bin\Debug\Files\word.txt
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\bin\Debug\HangmanWinForms.exe.config
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\bin\Debug\HangmanWinForms.exe
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\bin\Debug\HangmanWinForms.pdb
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.exe
+C:\Users\44747\Documents\Peregrine\Coding\HangmanWinForms\obj\Debug\HangmanWinForms.pdb
