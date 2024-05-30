@@ -1,0 +1,30 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\refint\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBook\obj\Debug\net7.0\ref\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\bin\Debug\net7.0\ChatUsingBook.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\refint\ChatUsingBook.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ChatUsingBook.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Chats\ChatUsingBook\obj\Debug\net7.0\ref\ChatUsingBook.dll

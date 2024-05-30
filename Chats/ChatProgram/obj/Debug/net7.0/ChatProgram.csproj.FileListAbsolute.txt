@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\bin\Debug\net7.0\ChatProgram.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\bin\Debug\net7.0\ChatProgram.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\bin\Debug\net7.0\ChatProgram.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\bin\Debug\net7.0\ChatProgram.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\bin\Debug\net7.0\ChatProgram.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\refint\ChatProgram.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ChatProgram.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatProgram\obj\Debug\net7.0\ref\ChatProgram.dll

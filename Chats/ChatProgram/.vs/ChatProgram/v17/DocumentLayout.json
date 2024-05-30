@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\ChatProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41F6011-7CCA-459B-B7B3-43D9CA521470}|ChatProgram.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\new folder\\chatprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41F6011-7CCA-459B-B7B3-43D9CA521470}|ChatProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20366C3-7AEF-49CC-9152-0EECFDC20FB5}|..\\Client2\\Client2.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\new folder\\client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C93592-FF59-4C4E-9938-62080832BB01}|..\\Server\\Server.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\new folder\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\Client2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Client2\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\Client2\\Program.cs",
+              "RelativeToolTip": "..\\Client2\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwGMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:39:19.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\Server\\Program.cs",
+              "RelativeToolTip": "..\\Server\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:29:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\ChatProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\New folder\\ChatProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:07:44.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

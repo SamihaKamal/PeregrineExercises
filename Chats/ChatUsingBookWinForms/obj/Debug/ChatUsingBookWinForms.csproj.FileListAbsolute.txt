@@ -1,0 +1,10 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.Form1.resources
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.Properties.Resources.resources
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.csproj.GenerateResource.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\bin\Debug\ChatUsingBookWinForms.exe.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\bin\Debug\ChatUsingBookWinForms.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\bin\Debug\ChatUsingBookWinForms.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\New folder\ChatUsingBookWinForms\obj\Debug\ChatUsingBookWinForms.pdb
