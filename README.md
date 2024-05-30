@@ -1,5 +1,6 @@
 # PeregrineExercises
 ## File structure:
+```
 ├───C#CodingEX
 │   ├───Anagram
 │   │   ├───bin
@@ -197,4 +198,4 @@
             │   └───Debug
             └───Properties
 
-
+```
