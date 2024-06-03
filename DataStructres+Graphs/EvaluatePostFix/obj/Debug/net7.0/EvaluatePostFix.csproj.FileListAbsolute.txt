@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\bin\Debug\net7.0\EvaluatePostFix.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\bin\Debug\net7.0\EvaluatePostFix.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\bin\Debug\net7.0\EvaluatePostFix.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\bin\Debug\net7.0\EvaluatePostFix.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\bin\Debug\net7.0\EvaluatePostFix.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\refint\EvaluatePostFix.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\EvaluatePostFix.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\EvaluatePostFix\obj\Debug\net7.0\ref\EvaluatePostFix.dll

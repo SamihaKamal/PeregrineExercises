@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\bin\Debug\net7.0\StackExc.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\bin\Debug\net7.0\StackExc.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\bin\Debug\net7.0\StackExc.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\bin\Debug\net7.0\StackExc.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\bin\Debug\net7.0\StackExc.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\refint\StackExc.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\StackExc.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\StackExc\obj\Debug\net7.0\ref\StackExc.dll

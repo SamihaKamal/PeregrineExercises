@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\EvaluatePostFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA51DCCD-77A8-4D20-AA66-FF75670C4B10}|EvaluatePostFix.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\datastructres\u002Bgraphs\\evaluatepostfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA51DCCD-77A8-4D20-AA66-FF75670C4B10}|EvaluatePostFix.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA51DCCD-77A8-4D20-AA66-FF75670C4B10}|EvaluatePostFix.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\datastructres\u002Bgraphs\\evaluatepostfix\\evalpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA51DCCD-77A8-4D20-AA66-FF75670C4B10}|EvaluatePostFix.csproj|solutionrelative:evalpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvalPostFix.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\EvaluatePostFix\\EvalPostFix.cs",
+              "RelativeDocumentMoniker": "EvalPostFix.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\EvaluatePostFix\\EvalPostFix.cs",
+              "RelativeToolTip": "EvalPostFix.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:40:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\EvaluatePostFix\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\EvaluatePostFix\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowCwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:25:35.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
