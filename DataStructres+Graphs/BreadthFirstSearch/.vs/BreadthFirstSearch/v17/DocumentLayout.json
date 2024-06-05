@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C10D01F-596F-4136-ADD3-C36812FAB3F2}|BreadthFirstSearch.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\datastructres\u002Bgraphs\\breadthfirstsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C10D01F-596F-4136-ADD3-C36812FAB3F2}|BreadthFirstSearch.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C10D01F-596F-4136-ADD3-C36812FAB3F2}|BreadthFirstSearch.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\datastructres\u002Bgraphs\\breadthfirstsearch\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C10D01F-596F-4136-ADD3-C36812FAB3F2}|BreadthFirstSearch.csproj|solutionrelative:vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C10D01F-596F-4136-ADD3-C36812FAB3F2}|BreadthFirstSearch.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\datastructres\u002Bgraphs\\breadthfirstsearch\\directedgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C10D01F-596F-4136-ADD3-C36812FAB3F2}|BreadthFirstSearch.csproj|solutionrelative:directedgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectedGraph.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\DirectedGraph.cs",
+              "RelativeDocumentMoniker": "DirectedGraph.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\DirectedGraph.cs",
+              "RelativeToolTip": "DirectedGraph.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAIA5wFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:36:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\Vertex.cs",
+              "RelativeDocumentMoniker": "Vertex.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\Vertex.cs",
+              "RelativeToolTip": "Vertex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:35:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\DataStructres\u002BGraphs\\BreadthFirstSearch\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:08:48.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

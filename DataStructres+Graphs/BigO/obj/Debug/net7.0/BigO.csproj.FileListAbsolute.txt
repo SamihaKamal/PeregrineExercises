@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\bin\Debug\net7.0\BigO.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\bin\Debug\net7.0\BigO.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\bin\Debug\net7.0\BigO.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\bin\Debug\net7.0\BigO.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\bin\Debug\net7.0\BigO.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\refint\BigO.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\BigO.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\BigO\obj\Debug\net7.0\ref\BigO.dll

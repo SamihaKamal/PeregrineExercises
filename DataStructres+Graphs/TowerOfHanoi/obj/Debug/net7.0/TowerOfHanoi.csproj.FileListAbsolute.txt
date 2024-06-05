@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\refint\TowerOfHanoi.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\TowerOfHanoi\obj\Debug\net7.0\ref\TowerOfHanoi.dll

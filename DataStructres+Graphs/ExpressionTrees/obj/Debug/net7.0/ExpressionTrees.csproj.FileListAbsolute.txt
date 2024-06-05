@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\bin\Debug\net7.0\ExpressionTrees.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\bin\Debug\net7.0\ExpressionTrees.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\bin\Debug\net7.0\ExpressionTrees.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\bin\Debug\net7.0\ExpressionTrees.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\bin\Debug\net7.0\ExpressionTrees.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\refint\ExpressionTrees.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ExpressionTrees.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\ExpressionTrees\obj\Debug\net7.0\ref\ExpressionTrees.dll

@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\bin\Debug\net7.0\DfsSpanningTree.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\bin\Debug\net7.0\DfsSpanningTree.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\bin\Debug\net7.0\DfsSpanningTree.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\bin\Debug\net7.0\DfsSpanningTree.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\bin\Debug\net7.0\DfsSpanningTree.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\refint\DfsSpanningTree.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\DfsSpanningTree.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DfsSpanningTree\obj\Debug\net7.0\ref\DfsSpanningTree.dll

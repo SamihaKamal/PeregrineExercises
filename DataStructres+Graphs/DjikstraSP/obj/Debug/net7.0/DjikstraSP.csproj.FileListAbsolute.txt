@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\bin\Debug\net7.0\DjikstraSP.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\bin\Debug\net7.0\DjikstraSP.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\bin\Debug\net7.0\DjikstraSP.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\bin\Debug\net7.0\DjikstraSP.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\bin\Debug\net7.0\DjikstraSP.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\refint\DjikstraSP.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\DjikstraSP.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\DjikstraSP\obj\Debug\net7.0\ref\DjikstraSP.dll

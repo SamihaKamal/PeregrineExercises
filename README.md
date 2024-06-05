@@ -21,6 +21,23 @@
 │   ├───Client2
 │   └───Server
 |
+├───DataStructres+Graphs
+│   ├───Arrays
+│   ├───BigO
+│   ├───BinaryTreeTraversal
+│   ├───BreadthFirstSearch
+│   ├───DepthFirstSearch
+│   ├───DfsSpanningTree
+│   ├───DjikstraSP
+│   ├───EvaluatePostFix
+│   ├───ExpressionTrees
+│   ├───Fibonacci
+│   ├───GCD
+│   ├───Sorting
+│   ├───StackArrays
+│   ├───StackExc
+│   └───TowerOfHanoi
+|
 ├───HangmanProgs
 │   ├───Hangman
 │   └───HangmanWinForms

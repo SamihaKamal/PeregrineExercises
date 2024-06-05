@@ -1,0 +1,15 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\bin\Debug\net7.0\GCD.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\bin\Debug\net7.0\GCD.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\bin\Debug\net7.0\GCD.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\bin\Debug\net7.0\GCD.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\bin\Debug\net7.0\GCD.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\refint\GCD.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\GCD.genruntimeconfig.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\DataStructres+Graphs\GCD\obj\Debug\net7.0\ref\GCD.dll
