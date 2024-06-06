@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAdp", "WebAdp.csproj", "{D3D4B169-E974-4391-BA93-8A2F47DC4150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D4B169-E974-4391-BA93-8A2F47DC4150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D4B169-E974-4391-BA93-8A2F47DC4150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D4B169-E974-4391-BA93-8A2F47DC4150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D4B169-E974-4391-BA93-8A2F47DC4150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA9A09B5-B16C-48BC-9D0F-0CE4F5156B4B}
+	EndGlobalSection
+EndGlobal
