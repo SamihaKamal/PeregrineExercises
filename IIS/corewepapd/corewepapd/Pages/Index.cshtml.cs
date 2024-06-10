@@ -9,6 +9,16 @@ namespace corewepapd.Pages
     {
         public String Id { get; set; }
         public string Name { get; set; }
+        public string CompanyName { get; set; }
+        public string Title { get; set; }
+        public string Address { get; set; }
+        public string City { get; set; }
+        public string Region { get; set; }
+        public string PC { get; set; }
+        public string Country { get; set; }
+        public string Phone { get; set; }
+        public string Fax { get; set; }
+
     }
     public class IndexModel : PageModel
     {
@@ -21,7 +31,7 @@ namespace corewepapd.Pages
             _configuration = configuration;
            
         }
-        public List<Customer> customers { get; set; }
+        public List<Customer> customers { get; set; } = new List<Customer>();
         public void OnGet()
         {
             string cnstr = _configuration.GetSection("ConnectionStrings")["MyDb"];
@@ -39,6 +49,16 @@ namespace corewepapd.Pages
                 {
                     Id = dr["CustomerID"].ToString(),
                     Name = dr["ContactName"].ToString(),
+                    CompanyName = dr["CompanyName"].ToString(),
+                    Title = dr["ContactTitle"].ToString(),
+                    Address = dr["Address"].ToString(),
+                    City = dr["City"].ToString(),
+                    Region = dr["Region"].ToString(),
+                    PC = dr["PostalCode"].ToString(),
+                    Country = dr["Country"].ToString(),
+                    Phone = dr["Phone"].ToString(),
+                    Fax = dr["Fax"].ToString(),
+
                 };
                 customers.Add(customer);
             }

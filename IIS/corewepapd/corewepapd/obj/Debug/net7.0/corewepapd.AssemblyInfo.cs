@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("corewepapd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a679d6aa311f69e3b639c1a58addce69ea82591")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f9dff5e6ccfb9aa0c879c81ddf2505b137be29")]
 [assembly: System.Reflection.AssemblyProductAttribute("corewepapd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("corewepapd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
