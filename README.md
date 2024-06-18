@@ -73,6 +73,7 @@
 |
 └───Shapes+Testing
     ├───Interfaces
+    ├───PlaywrightCodegen
     ├───PlaywrightTesting
     ├───ProjectAppsTest
     └───Shapes

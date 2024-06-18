@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<!--configuration elements-->
+	<RunConfiguration>
+		<!--Use 0 for maximum process-level parallelization. This does notforce parallelization within the test DLL (on the thread-level). You can also changeit from the Test menu; choose "Run tests in parallel". Unchecked = 1 (only1), checked= 0 (max).-->
+		<MaxCpuCount>1</MaxCpuCount>
+		<!--Path relative to directory that contains .runsettings file-->
+		<ResultsDirectory>.\TestResults</ResultsDirectory>
+		<!--Omit the whole tag for autodetection.-->
+		<!--[x86] or x64, ARM,ARM64, s390x-->
+		<!--You can also change it from the Test menu; choose "ProcessorArchitecture for AnyCPU Projects"-->
+		<TargetPlatform>x64</TargetPlatform>
+		<TargetFrameworkVersion>net7.0</TargetFrameworkVersion>
+		<TestAdaptersPaths>%SystemDrive%\Temp\foo;%SystemDrive%\Temp\bar</TestAdaptersPaths>
+			<TestCaseFilter>
+				(TestCategory != Integration) &amp; (TestCategory !=
+				UnfinishedFeature)
+			</TestCaseFilter>
+			<TestSessionTimeout>40000</TestSessionTimeout>
+			<TreatNoTestsAsError>true</TreatNoTestsAsError>
+		</RunConfiguration>
+	<Playwright>
+		<BrowserName>chromium</BrowserName>
+		<LaunchOptions>
+			<Headless>false</Headless>
+			<Channel>msedge</Channel>
+		</LaunchOptions>
+	</Playwright>
+</RunSettings>
