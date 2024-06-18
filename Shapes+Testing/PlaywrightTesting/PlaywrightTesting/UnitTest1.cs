@@ -5,8 +5,8 @@ namespace PlaywrightTesting
 {
     [TestFixture]
     public class Tests
-    {  
-
+    {
+  
         [Test]
         public async Task Test1()
         {
@@ -20,7 +20,7 @@ namespace PlaywrightTesting
 
             var context = await browser.NewContextAsync(new BrowserNewContextOptions()
             {
-                RecordVideoDir = "video/",
+                RecordVideoDir = "video\\cheese.mp4",
                 RecordVideoSize = new RecordVideoSize()
                 {
                     Width = 1920,
@@ -71,7 +71,7 @@ namespace PlaywrightTesting
 
             await Task.Delay(TimeSpan.FromSeconds(5.0));
             await context.CloseAsync();
-            Assert.Pass();
+            
         }
     }
 }

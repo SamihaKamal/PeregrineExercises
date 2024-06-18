@@ -24,6 +24,8 @@
 		<LaunchOptions>
 			<Headless>false</Headless>
 			<Channel>msedge</Channel>
+			<RecordVideoDir>Videos/</RecordVideoDir>
+			<RecordVideoSize></RecordVideoSize>
 		</LaunchOptions>
 	</Playwright>
 </RunSettings>
