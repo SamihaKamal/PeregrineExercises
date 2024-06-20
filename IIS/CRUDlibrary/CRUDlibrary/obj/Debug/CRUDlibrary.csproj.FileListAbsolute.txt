@@ -1,0 +1,12 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\CRUDlibrary.dll.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\CRUDlibrary.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\CRUDlibrary.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\EntityFramework.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\EntityFramework.xml
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\obj\Debug\CRUDlibrary.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\obj\Debug\CRUDlibrary.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\obj\Debug\CRUDlibr.9A4231D8.Up2Date
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\obj\Debug\CRUDlibrary.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\IIS\CRUDlibrary\CRUDlibrary\obj\Debug\CRUDlibrary.pdb

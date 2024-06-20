@@ -13,7 +13,7 @@ namespace PlaywrightCodeGen
         {
 
 
-            var context = await Browser.NewContextAsync(new() { RecordVideoDir = "video\\cheese.mp4" });
+            var context = await Browser.NewContextAsync(new() { RecordVideoDir = "video\\" });
             var Page = await context.NewPageAsync();
 
             await Page.GotoAsync("http://localhost:58788/");

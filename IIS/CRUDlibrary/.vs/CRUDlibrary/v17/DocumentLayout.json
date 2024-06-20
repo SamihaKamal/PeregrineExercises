@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08EDCA87-E4CA-42B2-8AA6-92D52A7EC7C9}|CRUDWebAPI\\CRUDWebAPI.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\crudwebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EDCA87-E4CA-42B2-8AA6-92D52A7EC7C9}|CRUDWebAPI\\CRUDWebAPI.csproj|solutionrelative:crudwebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1BEF-EC3E-498A-B69C-A77532F227D1}|CRUDlibrary\\CRUDlibrary.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\iis\\crudlibrary\\crudlibrary\\studentedm.edmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA0B1BEF-EC3E-498A-B69C-A77532F227D1}|CRUDlibrary\\CRUDlibrary.csproj|solutionrelative:crudlibrary\\studentedm.edmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EDCA87-E4CA-42B2-8AA6-92D52A7EC7C9}|CRUDWebAPI\\CRUDWebAPI.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\crudwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08EDCA87-E4CA-42B2-8AA6-92D52A7EC7C9}|CRUDWebAPI\\CRUDWebAPI.csproj|solutionrelative:crudwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentEDM.edmx",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\CRUDlibrary\\StudentEDM.edmx",
+              "RelativeDocumentMoniker": "CRUDlibrary\\StudentEDM.edmx",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\CRUDlibrary\\StudentEDM.edmx",
+              "RelativeToolTip": "CRUDlibrary\\StudentEDM.edmx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-18T14:24:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\CRUDWebAPI\\Web.config",
+              "RelativeDocumentMoniker": "CRUDWebAPI\\Web.config",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\CRUDWebAPI\\Web.config",
+              "RelativeToolTip": "CRUDWebAPI\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-18T14:00:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\CRUDWebAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CRUDWebAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\IIS\\CRUDlibrary\\CRUDWebAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CRUDWebAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:57:44.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

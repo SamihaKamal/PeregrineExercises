@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaywrightCodeGen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c6669d876a812a6fe6d987f304c558dc7afd43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bca173fca6226f935d8bfdb84432cb88c7e9ef99")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaywrightCodeGen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaywrightCodeGen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
