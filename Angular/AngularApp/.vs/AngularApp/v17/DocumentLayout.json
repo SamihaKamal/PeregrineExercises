@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Angular\\AngularApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F8DF9A-31FB-4B10-AAC7-E5059296C1E2}|AngularApp\\AngularApp.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\angular\\angularapp\\angularapp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8F8DF9A-31FB-4B10-AAC7-E5059296C1E2}|AngularApp\\AngularApp.csproj|solutionrelative:angularapp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Angular\\AngularApp\\AngularApp\\Index.html",
+              "RelativeDocumentMoniker": "AngularApp\\Index.html",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Angular\\AngularApp\\AngularApp\\Index.html",
+              "RelativeToolTip": "AngularApp\\Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-01T08:54:40.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
