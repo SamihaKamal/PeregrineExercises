@@ -1,0 +1,10 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\bin\Debug\CRUDonAngular.exe.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\bin\Debug\CRUDonAngular.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\bin\Debug\CRUDonAngular.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.Form1.resources
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.Properties.Resources.resources
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.csproj.GenerateResource.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Angular\CRUDonAngular\CRUDonAngular\obj\Debug\CRUDonAngular.pdb
