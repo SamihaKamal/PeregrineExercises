@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CalculationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Addition">
+    <Key>
+      <PropertyRef Name="SumID" />
+    </Key>
+    <Property Name="SumID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstNumber" Type="Int32" />
+    <Property Name="SecondNumber" Type="Int32" />
+    <Property Name="Sum" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="CalculationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Additions" EntityType="Self.Addition" />
+    <EntitySet Name="Subtractions" EntityType="CalculationModel.Subtraction" />
+    <EntitySet Name="Divisions" EntityType="CalculationModel.Division" />
+    <EntitySet Name="Multiplications" EntityType="CalculationModel.Multiplication" />
+  </EntityContainer>
+  <EntityType Name="Subtraction">
+    <Key>
+      <PropertyRef Name="SubtractId" />
+    </Key>
+    <Property Name="SubtractId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstNumber" Type="Int32" />
+    <Property Name="SecondNumber" Type="Int32" />
+    <Property Name="Sum" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Division">
+    <Key>
+      <PropertyRef Name="DivId" />
+    </Key>
+    <Property Name="DivId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstNumber" Type="Int32" />
+    <Property Name="SecondNumber" Type="Int32" />
+    <Property Name="Sum" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Multiplication">
+    <Key>
+      <PropertyRef Name="MultId" />
+    </Key>
+    <Property Name="MultId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstNumber" Type="Int32" />
+    <Property Name="SecondNumber" Type="Int32" />
+    <Property Name="Sum" Type="Int32" />
+  </EntityType>
+</Schema>

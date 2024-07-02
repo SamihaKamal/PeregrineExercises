@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\webapi\\httpclient\\httpclientwebapi\\controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|solutionrelative:httpclientwebapi\\controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\webapi\\httpclient\\httpclientwebapi\\controllers\\multiplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|solutionrelative:httpclientwebapi\\controllers\\multiplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\webapi\\httpclient\\httpclientwebapi\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|solutionrelative:httpclientwebapi\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\webapi\\httpclient\\httpclientwebapi\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|solutionrelative:httpclientwebapi\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B2F5AA-FDEA-4ED2-9744-F81F325ECA55}|HTTPClient\\HTTPClient.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\webapi\\httpclient\\httpclient\\additionedm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{65B2F5AA-FDEA-4ED2-9744-F81F325ECA55}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\additionedm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\webapi\\httpclient\\httpclientwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{60D97657-AD02-472F-A0F8-2CC7386109E4}|HttpClientWebApi\\HttpClientWebApi.csproj|solutionrelative:httpclientwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivisionController.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\DivisionController.cs",
+              "RelativeDocumentMoniker": "HttpClientWebApi\\Controllers\\DivisionController.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\DivisionController.cs",
+              "RelativeToolTip": "HttpClientWebApi\\Controllers\\DivisionController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:34:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplyController.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\MultiplyController.cs",
+              "RelativeDocumentMoniker": "HttpClientWebApi\\Controllers\\MultiplyController.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\MultiplyController.cs",
+              "RelativeToolTip": "HttpClientWebApi\\Controllers\\MultiplyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:32:25.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubtractionController.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\SubtractionController.cs",
+              "RelativeDocumentMoniker": "HttpClientWebApi\\Controllers\\SubtractionController.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\SubtractionController.cs",
+              "RelativeToolTip": "HttpClientWebApi\\Controllers\\SubtractionController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:18:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdditionEDM.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HTTPClient\\AdditionEDM.edmx",
+              "RelativeDocumentMoniker": "HTTPClient\\AdditionEDM.edmx",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HTTPClient\\AdditionEDM.edmx [Diagram1]",
+              "RelativeToolTip": "HTTPClient\\AdditionEDM.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-02T14:11:22.817Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Web.config",
+              "RelativeDocumentMoniker": "HttpClientWebApi\\Web.config",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Web.config",
+              "RelativeToolTip": "HttpClientWebApi\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-02T13:07:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdditionController.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\AdditionController.cs",
+              "RelativeDocumentMoniker": "HttpClientWebApi\\Controllers\\AdditionController.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\WebAPI\\HTTPClient\\HttpClientWebApi\\Controllers\\AdditionController.cs",
+              "RelativeToolTip": "HttpClientWebApi\\Controllers\\AdditionController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:07:13.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

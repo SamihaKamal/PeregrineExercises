@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CalculationModelStoreContainer" CdmEntityContainer="CalculationEntities">
+    <EntitySetMapping Name="Additions">
+      <EntityTypeMapping TypeName="CalculationModel.Addition">
+        <MappingFragment StoreEntitySet="Addition">
+          <ScalarProperty Name="SumID" ColumnName="SumID" />
+          <ScalarProperty Name="FirstNumber" ColumnName="FirstNumber" />
+          <ScalarProperty Name="SecondNumber" ColumnName="SecondNumber" />
+          <ScalarProperty Name="Sum" ColumnName="Sum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subtractions">
+      <EntityTypeMapping TypeName="CalculationModel.Subtraction">
+        <MappingFragment StoreEntitySet="Subtraction">
+          <ScalarProperty Name="Sum" ColumnName="Sum" />
+          <ScalarProperty Name="SecondNumber" ColumnName="SecondNumber" />
+          <ScalarProperty Name="FirstNumber" ColumnName="FirstNumber" />
+          <ScalarProperty Name="SubtractId" ColumnName="SubtractId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Divisions">
+      <EntityTypeMapping TypeName="CalculationModel.Division">
+        <MappingFragment StoreEntitySet="Division">
+          <ScalarProperty Name="Sum" ColumnName="Sum" />
+          <ScalarProperty Name="SecondNumber" ColumnName="SecondNumber" />
+          <ScalarProperty Name="FirstNumber" ColumnName="FirstNumber" />
+          <ScalarProperty Name="DivId" ColumnName="DivId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Multiplications">
+      <EntityTypeMapping TypeName="CalculationModel.Multiplication">
+        <MappingFragment StoreEntitySet="Multiplication">
+          <ScalarProperty Name="Sum" ColumnName="Sum" />
+          <ScalarProperty Name="SecondNumber" ColumnName="SecondNumber" />
+          <ScalarProperty Name="FirstNumber" ColumnName="FirstNumber" />
+          <ScalarProperty Name="MultId" ColumnName="MultId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
