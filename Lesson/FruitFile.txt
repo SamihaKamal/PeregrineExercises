@@ -1,0 +1,1 @@
+"Apple: 24","Banana: 12","Grapes: 6","Cherry: 3",Melon: 48,Mango: 96,Lychee: 23

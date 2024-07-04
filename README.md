@@ -1,6 +1,15 @@
 # PeregrineExercises
 ## File structure:
 ```
+├───Angular
+│   ├───AngularApp
+│   ├───AngularAppMVC
+│   ├───CRUDonAngular
+│   └───Downloaded
+│       ├───AngApp
+│       ├───AngularApp
+│       ├───FirstServerCall
+|
 ├───C#CodingEX
 │   ├───Anagram
 │   ├───C#CodingExcercises
@@ -38,6 +47,10 @@
 │   ├───StackExc
 │   └───TowerOfHanoi
 |
+├───Docker
+│   ├───dotnetmvc
+│   └───dotnetwebapi
+|
 ├───HangmanProgs
 │   ├───Hangman
 │   └───HangmanWinForms
@@ -47,17 +60,25 @@
 ├───IIS
 │   ├───aspnet_client
 │   ├───corewepapd
+├───CRUDlibrary
+│   │   ├───CRUDlibrary
+│   │   ├───CRUDWebAPI
+│   ├───CRUDLibrary2
+│   │   ├───CRUDLibrary2
+│   │   ├───CRUDWebAPI
 │   ├───Published
 │   │   ├───ProductsApp
 │   │   ├───secondwebapp
 │   │   └───WebAdp-P
 │   ├───WebAdp
 │   └───webadp2
-|
+|   └───WebAPI
+│      
 ├───Lesson
 │   ├───DataType
 │   ├───FirstApp
 │   ├───ForEach, in
+│   ├───FruityApp
 │   ├───FunctionBlock
 │   ├───If_Else
 │   ├───Inheritance
@@ -67,16 +88,22 @@
 |   ├───DatabaseConsole
 |   ├───JSON 
 │   └───Switch_Case
+├───NodeExcercises
+│   ├───Node
+│   ├───NodeExpress
+│   └───NodePost
 |
 ├───Notes
 │   └───ObjectOrientedProgramming
 |
-└───Shapes+Testing
-    ├───Interfaces
-    ├───PlaywrightCodegen
-    ├───PlaywrightTesting
-    ├───ProjectAppsTest
-    └───Shapes
-
+├───Shapes+Testing
+|   ├───Interfaces
+|   ├───PlaywrightCodegen
+|   ├───PlaywrightTesting
+|   ├───ProjectAppsTest
+|   └───Shapes
+└───WebAPI
+    ├───HTTPClient
+    └───HttpClientWinForms
   
 ```
