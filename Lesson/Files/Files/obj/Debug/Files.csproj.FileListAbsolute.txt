@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\bin\Debug\Files.exe.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\bin\Debug\Files.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\bin\Debug\Files.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\obj\Debug\Files.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\Files\Files\obj\Debug\Files.pdb
