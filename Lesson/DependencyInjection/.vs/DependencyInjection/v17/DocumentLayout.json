@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\lesson\\dependencyinjection\\dependencyinjection\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E04A59-1D61-4506-9806-95C04A7EA3EE}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:03:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Calculator.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Calculator.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Calculator.cs",
+              "RelativeToolTip": "DependencyInjection\\Calculator.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:58:33.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\ICalculator.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\ICalculator.cs",
+              "RelativeToolTip": "DependencyInjection\\ICalculator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:57:10.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Message.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Message.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Message.cs",
+              "RelativeToolTip": "DependencyInjection\\Message.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:34:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\IMessage.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\IMessage.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\IMessage.cs",
+              "RelativeToolTip": "DependencyInjection\\IMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:33:25.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\ILog.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\ILog.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\ILog.cs",
+              "RelativeToolTip": "DependencyInjection\\ILog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:31:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Log.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Log.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Lesson\\DependencyInjection\\DependencyInjection\\Log.cs",
+              "RelativeToolTip": "DependencyInjection\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:30:26.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
