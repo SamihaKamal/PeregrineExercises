@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.libs\\repositories\\imovierankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|solutionrelative:movierank.libs\\repositories\\imovierankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\movierank\\movierank.libs\\repositories\\movierankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|solutionrelative:movierank.libs\\repositories\\movierankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank\\services\\imovierankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|solutionrelative:movierank\\services\\imovierankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank\\services\\movierankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|solutionrelative:movierank\\services\\movierankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.libs\\mappers\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|solutionrelative:movierank.libs\\mappers\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.libs\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|solutionrelative:movierank.libs\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.libs\\models\\moviedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}|MovieRank.Libs\\MovieRank.Libs.csproj|solutionrelative:movierank.libs\\models\\moviedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|solutionrelative:movierank\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.contracts\\movierankrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|solutionrelative:movierank.contracts\\movierankrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.contracts\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|solutionrelative:movierank.contracts\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.contracts\\movieupdateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|solutionrelative:movierank.contracts\\movieupdateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4436BD4-A81B-4E02-A461-AE14644464EE}|MovieRank\\MovieRank.csproj|solutionrelative:movierank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\movierank.contracts\\movierankresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}|MovieRank.Contracts\\MovieRank.Contracts.csproj|solutionrelative:movierank.contracts\\movierankresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRankService.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Services\\MovieRankService.cs",
+              "RelativeDocumentMoniker": "MovieRank\\Services\\MovieRankService.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Services\\MovieRankService.cs",
+              "RelativeToolTip": "MovieRank\\Services\\MovieRankService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:35:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Mappers\\IMapper.cs",
+              "RelativeDocumentMoniker": "MovieRank.Libs\\Mappers\\IMapper.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Mappers\\IMapper.cs",
+              "RelativeToolTip": "MovieRank.Libs\\Mappers\\IMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:38:36.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieRankService.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Services\\IMovieRankService.cs",
+              "RelativeDocumentMoniker": "MovieRank\\Services\\IMovieRankService.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Services\\IMovieRankService.cs",
+              "RelativeToolTip": "MovieRank\\Services\\IMovieRankService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:35:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Repositories\\MovieRankRepository.cs",
+              "RelativeDocumentMoniker": "MovieRank.Libs\\Repositories\\MovieRankRepository.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Repositories\\MovieRankRepository.cs",
+              "RelativeToolTip": "MovieRank.Libs\\Repositories\\MovieRankRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:37:41.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMovieRankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Repositories\\IMovieRankRepository.cs",
+              "RelativeDocumentMoniker": "MovieRank.Libs\\Repositories\\IMovieRankRepository.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Repositories\\IMovieRankRepository.cs",
+              "RelativeToolTip": "MovieRank.Libs\\Repositories\\IMovieRankRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:37:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Mappers\\Mapper.cs",
+              "RelativeDocumentMoniker": "MovieRank.Libs\\Mappers\\Mapper.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Mappers\\Mapper.cs",
+              "RelativeToolTip": "MovieRank.Libs\\Mappers\\Mapper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwB8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:38:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDB.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Models\\MovieDB.cs",
+              "RelativeDocumentMoniker": "MovieRank.Libs\\Models\\MovieDB.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\Models\\MovieDB.cs",
+              "RelativeToolTip": "MovieRank.Libs\\Models\\MovieDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:17:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieRank\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieRank\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAtwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:35:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieRankRequest.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieRankRequest.cs",
+              "RelativeDocumentMoniker": "MovieRank.Contracts\\MovieRankRequest.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieRankRequest.cs",
+              "RelativeToolTip": "MovieRank.Contracts\\MovieRankRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:40:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieResponse.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieResponse.cs",
+              "RelativeDocumentMoniker": "MovieRank.Contracts\\MovieResponse.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieResponse.cs",
+              "RelativeToolTip": "MovieRank.Contracts\\MovieResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:41:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieUpdateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieUpdateResponse.cs",
+              "RelativeDocumentMoniker": "MovieRank.Contracts\\MovieUpdateResponse.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieUpdateResponse.cs",
+              "RelativeToolTip": "MovieRank.Contracts\\MovieUpdateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:41:38.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Program.cs",
+              "RelativeDocumentMoniker": "MovieRank\\Program.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank\\Program.cs",
+              "RelativeToolTip": "MovieRank\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:32:53.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieRankResponse.cs",
+              "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieRankResponse.cs",
+              "RelativeDocumentMoniker": "MovieRank.Contracts\\MovieRankResponse.cs",
+              "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Contracts\\MovieRankResponse.cs",
+              "RelativeToolTip": "MovieRank.Contracts\\MovieRankResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:41:00.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

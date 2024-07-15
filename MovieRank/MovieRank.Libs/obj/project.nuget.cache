@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7Hi5orTYT61I7R77c8RjM92iwg8S+BlNKkgnQPKaAtE0ZwGdH/tYuUDOjxSQ4slAldyZaOKV2UU4BJbCx1i+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\MovieRank\\MovieRank.Libs\\MovieRank.Libs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\44747\\.nuget\\packages\\awssdk.core\\3.7.304.29\\awssdk.core.3.7.304.29.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.305\\awssdk.dynamodbv2.3.7.305.nupkg.sha512"
+  ],
+  "logs": []
+}

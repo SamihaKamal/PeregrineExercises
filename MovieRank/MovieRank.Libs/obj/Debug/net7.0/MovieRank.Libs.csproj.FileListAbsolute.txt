@@ -1,0 +1,16 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\bin\Debug\net7.0\MovieRank.Libs.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\bin\Debug\net7.0\MovieRank.Libs.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\bin\Debug\net7.0\MovieRank.Libs.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\bin\Debug\net7.0\MovieRank.Contracts.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\bin\Debug\net7.0\MovieRank.Contracts.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.AssemblyInfoInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.AssemblyInfo.cs
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.sourcelink.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRan.916CCAFE.Up2Date
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\refint\MovieRank.Libs.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\MovieRank.Libs.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank.Libs\obj\Debug\net7.0\ref\MovieRank.Libs.dll
