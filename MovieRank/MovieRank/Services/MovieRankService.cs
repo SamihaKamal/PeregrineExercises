@@ -38,9 +38,27 @@ namespace MovieRank.Services
 
         public async Task AddMovie(int userId, MovieRankRequest movieRankRequest)
         {
-            var movieDb = _map.ToMovieDbModel(userId, movieRankRequest);
 
-            await _movieRankRepository.AddMovie(movieDb);
+            await _movieRankRepository.AddMovie(userId, movieRankRequest);
+        }
+
+        public async Task UpdateMovie(int userId, MovieUpdateRequest movieUpdateRequest)
+        {
+
+            await _movieRankRepository.UpdateMovie(userId, movieUpdateRequest);
+        }
+
+        public async Task<MovieRankResponse> GetMovieRank(string movieName)
+        {
+            var response = await _movieRankRepository.GetMovieRank(movieName);
+
+            var overall = Math.Round(response.Items.Select(x => Convert.ToInt32(x["Ranking"].N)).Average());
+
+            return new MovieRankResponse
+            {
+                MovieName = movieName,
+                overally = overall
+            };
         }
     }
 }

@@ -1,3 +1,7 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\packages.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\Web.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\Web.Debug.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\Web.Release.config
 C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\appsettings.json
 C:\Users\44747\Documents\GitHub\PeregrineExercises\MovieRank\MovieRank\bin\Debug\net7.0\MovieRank.exe

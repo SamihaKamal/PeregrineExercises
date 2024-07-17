@@ -1,0 +1,13 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.Form1.resources
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.Properties.Resources.resources
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.csproj.GenerateResource.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\bin\Debug\Publisher.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\bin\Debug\Publisher.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.csproj.Up2Date
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.exe
+C:\Users\44747\Documents\GitHub\PeregrineExercises\Lesson\RabbitMQPubSub\Publisher\obj\Debug\Publisher.pdb

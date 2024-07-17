@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieRank.Libs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07bf50327fa607a9a6bccbb503c18368d54f5bc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a339508def37544773c590b61f9eeb8ef03c7fd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieRank.Libs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieRank.Libs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

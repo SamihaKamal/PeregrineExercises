@@ -1,4 +1,6 @@
-﻿using MovieRank.Contracts;
+﻿using Amazon.DynamoDBv2.DocumentModel;
+using Amazon.DynamoDBv2.Model;
+using MovieRank.Contracts;
 using MovieRank.Libs.Models;
 using System;
 using System.Collections.Generic;
@@ -11,35 +13,41 @@ namespace MovieRank.Libs.Mappers
 {
     public class Mapper : IMapper
     {
-        public IEnumerable<MovieResponse> ToMovieContract(IEnumerable<MovieDB> items)
+        public IEnumerable<MovieResponse> ToMovieContract(ScanResponse response)
         {
-            return items.Select(ToMovieContract);
+            return response.Items.Select(ToMovieContract);
         }
 
-        public MovieResponse ToMovieContract(MovieDB movie)
+        public IEnumerable<MovieResponse> ToMovieContract(QueryResponse response)
+        {
+            return response.Items.Select(ToMovieContract);
+        }
+
+        private MovieResponse ToMovieContract(Dictionary<string, AttributeValue> item)
         {
             return new MovieResponse
             {
-                MovieName = movie.MovieName,
-                Description = movie.Description,
-                Actors = movie.Actors,
-                Ranking = movie.Ranking,
-                TimeRanked = movie.RankedDateTime
-
+                MovieName = item["MovieName"].S,
+                Description = item["Description"].S,
+                Actors = item["Actors"].SS,
+                Ranking = Convert.ToInt32(item["Ranking"].N),
+                TimeRanked = item["RankedDateTime"].S
             };
         }
 
-        public MovieDB ToMovieDbModel(int userId, MovieRankRequest movieRankRequest)
+        public MovieResponse ToMovieContract(GetItemResponse response)
         {
-            return new MovieDB
+            return new MovieResponse
             {
-                UserId = userId,
-                MovieName = movieRankRequest.MovieName,
-                Description = movieRankRequest.Description,
-                Actors = movieRankRequest.Actors,
-                Ranking = movieRankRequest.Ranking,
-                RankedDateTime = DateTime.UtcNow.ToString()
+                MovieName = response.Item["MovieName"].S,
+                Description = response.Item["Description"].S,
+                Actors = response.Item["Actors"].SS,
+                Ranking = Convert.ToInt32(response.Item["Ranking"].N),
+                TimeRanked = response.Item["RankedDateTime"].S
             };
         }
+
+        
+
     }
 }

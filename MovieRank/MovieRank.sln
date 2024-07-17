@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank", "MovieRank\MovieRank.csproj", "{A4436BD4-A81B-4E02-A461-AE14644464EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieRank", "MovieRank\MovieRank.csproj", "{A4436BD4-A81B-4E02-A461-AE14644464EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank.Libs", "MovieRank.Libs\MovieRank.Libs.csproj", "{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieRank.Libs", "MovieRank.Libs\MovieRank.Libs.csproj", "{E9D9613D-EC4C-4BD3-8EBA-3BE46C2DB130}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank.Contracts", "MovieRank.Contracts\MovieRank.Contracts.csproj", "{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieRank.Contracts", "MovieRank.Contracts\MovieRank.Contracts.csproj", "{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6857CD9C-A538-435D-8068-8A0ED47FDD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank.Integration.Tests", "MovieRank.Integration.Tests\MovieRank.Integration.Tests.csproj", "{757C0A4A-4393-4C1D-B04E-345BE287C914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +31,16 @@ Global
 		{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D84C0A12-76E9-4ED0-BB1B-5978C74465A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757C0A4A-4393-4C1D-B04E-345BE287C914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757C0A4A-4393-4C1D-B04E-345BE287C914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757C0A4A-4393-4C1D-B04E-345BE287C914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757C0A4A-4393-4C1D-B04E-345BE287C914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{757C0A4A-4393-4C1D-B04E-345BE287C914} = {6857CD9C-A538-435D-8068-8A0ED47FDD33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09D6AF0C-E1E9-4D2A-B3D6-440B929CDF76}

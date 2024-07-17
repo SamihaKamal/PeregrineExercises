@@ -1,5 +1,3 @@
-
-
 using Amazon;
 using Amazon.DynamoDBv2;
 using Amazon.Extensions.NETCore.Setup;
@@ -27,6 +25,7 @@ namespace MovieRank
             builder.Services.AddSingleton<IMovieRankService, MovieRankService>();
             builder.Services.AddSingleton<IMovieRankRepository, MovieRankRepository>();
             builder.Services.AddSingleton<IMapper, Mapper>();
+            builder.Services.AddSingleton<ISetupService, SetupService>();
 
             var app = builder.Build();
 
@@ -37,6 +36,11 @@ namespace MovieRank
             app.UseAuthorization();
 
             app.UseRouting();
+
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
 
             app.UseEndpoints(endpoints =>
             {

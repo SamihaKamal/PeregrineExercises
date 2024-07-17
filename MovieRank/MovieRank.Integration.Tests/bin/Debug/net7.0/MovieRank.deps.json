@@ -1,0 +1,155 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MovieRank/1.0.0": {
+        "dependencies": {
+          "MovieRank.Contracts": "1.0.0",
+          "MovieRank.Libs": "1.0.0",
+          "AWSSDK.DynamoDBv2": "3.7.305",
+          "AWSSDK.Extensions.NETCore.Setup": "3.7.301"
+        },
+        "runtime": {
+          "MovieRank.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.304.29": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.304.29"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.305": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.304.29"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.305.0"
+          }
+        }
+      },
+      "AWSSDK.Extensions.NETCore.Setup/3.7.301": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.304.29",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Extensions.NETCore.Setup.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.7.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/2.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.0.0"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/2.0.0": {},
+      "Microsoft.Extensions.Primitives/2.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.4.0"
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.4.0": {},
+      "MovieRank.Contracts/1.0.0": {
+        "runtime": {
+          "MovieRank.Contracts.dll": {}
+        }
+      },
+      "MovieRank.Libs/1.0.0": {
+        "dependencies": {
+          "MovieRank.Contracts": "1.0.0",
+          "AWSSDK.DynamoDBv2": "3.7.305"
+        },
+        "runtime": {
+          "MovieRank.Libs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieRank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.304.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ut4MP7Y2O80TmEw5q++DED+BpJU3eb23szaxapSMOAXXff3+0uGmQ+thBJJdtCLx5SyF3SeJDlPCUH79btL2QA==",
+      "path": "awssdk.core/3.7.304.29",
+      "hashPath": "awssdk.core.3.7.304.29.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.305": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gLWkUUVjopHxkKkBvrU56YoGcaqjFPQYcbXkFXQy6Fq7tRFm/HU/zUaAmnES7dfg/JP6Miq/ZVt7ltY1CSL5vw==",
+      "path": "awssdk.dynamodbv2/3.7.305",
+      "hashPath": "awssdk.dynamodbv2.3.7.305.nupkg.sha512"
+    },
+    "AWSSDK.Extensions.NETCore.Setup/3.7.301": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hXejqa+G72kVCSmpKlNVWDEqa8KVWOFL/asgoE2mairQOnmTCv6vMxaXjJ0nQaad5/21zTdKDIfDiki5YTne1Q==",
+      "path": "awssdk.extensions.netcore.setup/3.7.301",
+      "hashPath": "awssdk.extensions.netcore.setup.3.7.301.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rHFrXqMIvQNq51H8RYTO4IWmDOYh8NUzyqGlh0xHWTP6XYnKk7Ryinys2uDs+Vu88b3AMlM3gBBSs78m6OQpYQ==",
+      "path": "microsoft.extensions.configuration.abstractions/2.0.0",
+      "hashPath": "microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6ZCllUYGFukkymSTx3Yr0G/ajRxoNJp7/FqSxSB4fGISST54ifBhgu4Nc0ItGi3i6DqwuNd8SUyObmiC++AO2Q==",
+      "path": "microsoft.extensions.logging.abstractions/2.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ukg53qNlqTrK38WA30b5qhw0GD7y3jdI9PHHASjdKyTcBHTevFM2o23tyk3pWCgAV27Bbkm+CPQ2zUe1ZOuYSA==",
+      "path": "microsoft.extensions.primitives/2.0.0",
+      "hashPath": "microsoft.extensions.primitives.2.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
+      "path": "system.runtime.compilerservices.unsafe/4.4.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+    },
+    "MovieRank.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieRank.Libs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
