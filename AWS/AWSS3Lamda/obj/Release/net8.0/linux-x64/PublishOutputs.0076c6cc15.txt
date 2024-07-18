@@ -1,0 +1,9 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\AWSS3Lamda.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\AWSS3Lamda.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\AWSS3Lamda.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\AWSSDK.S3.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSS3Lamda\bin\Release\net8.0\publish\AWSS3Lamda.dll

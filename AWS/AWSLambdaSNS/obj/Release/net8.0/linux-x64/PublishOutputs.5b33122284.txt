@@ -1,0 +1,7 @@
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\AWSLambdaSNS.deps.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\AWSLambdaSNS.runtimeconfig.json
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\AWSLambdaSNS.pdb
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\Amazon.Lambda.SNSEvents.dll
+C:\Users\44747\Documents\GitHub\PeregrineExercises\AWS\AWSLambdaSNS\bin\Release\net8.0\publish\AWSLambdaSNS.dll

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/JhgPHiM0j2lsNAzaHxbA1zLnpWc2yEu7630l5yFLg5boDmc9v7/bZ2jS1F+B57TZIBege1nCM9eNpTKiSsjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\AWS\\SNS\\SNS\\SNS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\44747\\.nuget\\packages\\awssdk.core\\3.7.201.7\\awssdk.core.3.7.201.7.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.7\\awssdk.extensions.netcore.setup.3.7.7.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.200.27\\awssdk.simplenotificationservice.3.7.200.27.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\44747\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
