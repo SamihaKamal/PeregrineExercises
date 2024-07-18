@@ -9,6 +9,11 @@
 │       ├───AngApp
 │       ├───AngularApp
 │       ├───FirstServerCall
+├───AWS
+│   ├───AWSLambda1
+│   ├───AWSLambdaSNS
+│   ├───AWSS3Lamda
+│   └───SNS
 |
 ├───C#CodingEX
 │   ├───Anagram
@@ -75,9 +80,13 @@
 |   └───WebAPI
 │      
 ├───Lesson
+│   ├───CoreLogging
+│   │   └───CoreLogging
 │   ├───DataType
+│   ├───DependencyInjection
 │   ├───FirstApp
 │   ├───ForEach, in
+│   ├───Files
 │   ├───FruityApp
 │   ├───FunctionBlock
 │   ├───If_Else
@@ -86,8 +95,19 @@
 │   ├───Loops
 │   ├───oop
 |   ├───DatabaseConsole
-|   ├───JSON 
+|   ├───JSON
+│   ├───RabbitMQ
+│   ├───RabbitMQPubSub
+│   ├───SerialiseCollection
 │   └───Switch_Case
+|
+├───Logging
+├───MovieRank
+│   ├───MovieRank
+│   ├───MovieRank.Contracts
+│   ├───MovieRank.Integration.Tests
+│   ├───MovieRank.Libs
+|
 ├───NodeExcercises
 │   ├───Node
 │   ├───NodeExpress
