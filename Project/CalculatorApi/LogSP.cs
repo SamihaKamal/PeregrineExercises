@@ -30,7 +30,7 @@ namespace CalculatorApi
                 }
             }
 
-            Console.WriteLine($"Message: {Message}");
+            
         }
     }
 }

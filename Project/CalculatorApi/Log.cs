@@ -24,7 +24,6 @@ namespace CalculatorApi
             };
             _context.DI_Log.Add(log);
             _context.SaveChanges();
-            Console.WriteLine($"Message: {message}");
         }
     }
 }

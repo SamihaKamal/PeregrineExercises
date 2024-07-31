@@ -3,39 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86DA1DF4-8EDD-48D2-A17E-192D9AF9FD93}|CalculatorProgram\\CalculatorProgram.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86DA1DF4-8EDD-48D2-A17E-192D9AF9FD93}|CalculatorProgram\\CalculatorProgram.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86DA1DF4-8EDD-48D2-A17E-192D9AF9FD93}|CalculatorProgram\\CalculatorProgram.csproj|solutionrelative:calculatorprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\isimplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\isimplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorapi\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorwebapi\\controllers\\subtractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\subtractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorwebapi\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorwebapi\\controllers\\dividecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\dividecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorwebapi\\controllers\\multiplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\multiplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{657E7FEF-90BA-476D-8061-4131097C9374}|CalculatorTests\\CalculatorTests.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatortests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657E7FEF-90BA-476D-8061-4131097C9374}|CalculatorTests\\CalculatorTests.csproj|solutionrelative:calculatortests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorapi\\logsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\logsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\logsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,15 +19,39 @@
       "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\isimplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\isimplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorwebapi\\controllers\\subtractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\subtractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorwebapi\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorwebapi\\controllers\\dividecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\dividecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorwebapi\\controllers\\multiplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3915ADA7-A809-4FDA-8539-971EBA8BD773}|CalculatorWebApi\\CalculatorWebApi.csproj|solutionrelative:calculatorwebapi\\controllers\\multiplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657E7FEF-90BA-476D-8061-4131097C9374}|CalculatorTests\\CalculatorTests.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatortests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E7FEF-90BA-476D-8061-4131097C9374}|CalculatorTests\\CalculatorTests.csproj|solutionrelative:calculatortests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorapi\\diagnosticlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\diagnosticlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\diagnosticlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\44747\\documents\\github\\peregrineexercises\\project\\calculatorapi\\context\\loggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\calculatorapi\\context\\loggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CCF6CD-2452-4957-BB24-95FF63A48D4B}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\context\\loggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SubtractController.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorWebApi\\Controllers\\SubtractController.cs",
               "RelativeDocumentMoniker": "CalculatorWebApi\\Controllers\\SubtractController.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "CalculatorWebApi\\Controllers\\SubtractController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:31:09.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T10:31:09.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DivideController.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorWebApi\\Controllers\\DivideController.cs",
               "RelativeDocumentMoniker": "CalculatorWebApi\\Controllers\\DivideController.cs",
@@ -87,12 +86,11 @@
               "RelativeToolTip": "CalculatorWebApi\\Controllers\\DivideController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:30:03.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T10:30:03.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AddController.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorWebApi\\Controllers\\AddController.cs",
               "RelativeDocumentMoniker": "CalculatorWebApi\\Controllers\\AddController.cs",
@@ -100,12 +98,11 @@
               "RelativeToolTip": "CalculatorWebApi\\Controllers\\AddController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:29:29.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T10:29:29.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MultiplyController.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorWebApi\\Controllers\\MultiplyController.cs",
               "RelativeDocumentMoniker": "CalculatorWebApi\\Controllers\\MultiplyController.cs",
@@ -113,18 +110,17 @@
               "RelativeToolTip": "CalculatorWebApi\\Controllers\\MultiplyController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:53:15.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:53:15.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "LogSP.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\LogSP.cs",
               "RelativeDocumentMoniker": "CalculatorApi\\LogSP.cs",
               "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\LogSP.cs",
               "RelativeToolTip": "CalculatorApi\\LogSP.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAA1AAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T09:19:00.004Z",
               "EditorCaption": ""
@@ -139,8 +135,7 @@
               "RelativeToolTip": "CalculatorApi\\Context\\LoggingContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:57:00.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:57:00.865Z"
             },
             {
               "$type": "Document",
@@ -152,18 +147,17 @@
               "RelativeToolTip": "CalculatorApi\\DiagnosticLog.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:55:51.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:55:51.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Log.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\Log.cs",
               "RelativeDocumentMoniker": "CalculatorApi\\Log.cs",
               "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\Log.cs",
               "RelativeToolTip": "CalculatorApi\\Log.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T13:28:08.768Z",
               "EditorCaption": ""
@@ -178,8 +172,7 @@
               "RelativeToolTip": "CalculatorApi\\ILog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T13:27:52.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T13:27:52.579Z"
             },
             {
               "$type": "Document",
@@ -189,27 +182,27 @@
               "RelativeDocumentMoniker": "CalculatorProgram\\Program.cs",
               "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorProgram\\Program.cs",
               "RelativeToolTip": "CalculatorProgram\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDcAAAAUAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T12:53:33.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SimpleCalculator.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\SimpleCalculator.cs",
               "RelativeDocumentMoniker": "CalculatorApi\\SimpleCalculator.cs",
               "ToolTip": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\SimpleCalculator.cs",
               "RelativeToolTip": "CalculatorApi\\SimpleCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAiAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T12:39:16.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Tests.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorTests\\Tests.cs",
               "RelativeDocumentMoniker": "CalculatorTests\\Tests.cs",
@@ -217,12 +210,11 @@
               "RelativeToolTip": "CalculatorTests\\Tests.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowDAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:33:07.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T12:33:07.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ISimpleCalculator.cs",
               "DocumentMoniker": "C:\\Users\\44747\\Documents\\GitHub\\PeregrineExercises\\Project\\CalculatorApi\\ISimpleCalculator.cs",
               "RelativeDocumentMoniker": "CalculatorApi\\ISimpleCalculator.cs",
@@ -230,8 +222,7 @@
               "RelativeToolTip": "CalculatorApi\\ISimpleCalculator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:30:30.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T12:30:30.37Z"
             }
           ]
         }

@@ -33,6 +33,11 @@ namespace CalculatorApi
         public async Task<int> divide(int start, int by)
         {
             int result;
+            if (by > start || by == 0)
+            {
+                Console.WriteLine("Second number cannot be 0 or greater than the first number");
+                return -1;
+            }
 
             HttpResponseMessage response = await a.GetAsync($"https://localhost:44344/api/divide?num1={start}&num2={by}");
             string apiResult = await response.Content.ReadAsStringAsync();

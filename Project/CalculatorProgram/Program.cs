@@ -50,6 +50,7 @@ namespace CalculatorProgram
                 else if (userInput.ToUpper() == "C")
                 {
                     result = await calc.divide(firstNumber, secondNumber);
+                   
                 }
                 else if (userInput.ToUpper() == "D")
                 {
@@ -61,7 +62,11 @@ namespace CalculatorProgram
                     Console.WriteLine("Invalid option");
                 }
 
-                Console.WriteLine("Result is " + result);
+                if (result != -1)
+                {
+                    Console.WriteLine("Result is " + result);
+                }
+              
             }
 
 
