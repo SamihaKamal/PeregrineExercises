@@ -8,13 +8,16 @@
 │   └───Downloaded
 │       ├───AngApp
 │       ├───AngularApp
-│       ├───FirstServerCall
+│       └───FirstServerCall
 ├───AWS
 │   ├───AWSLambda1
 │   ├───AWSLambdaSNS
 │   ├───AWSS3Lamda
 │   └───SNS
 |
+├───Azure
+│   └───HelloWorldApp
+│   
 ├───C#CodingEX
 │   ├───Anagram
 │   ├───C#CodingExcercises
@@ -64,19 +67,19 @@
 │   
 ├───IIS
 │   ├───aspnet_client
-│   ├───corewepapd
+│   └───corewepapd
 ├───CRUDlibrary
 │   │   ├───CRUDlibrary
-│   │   ├───CRUDWebAPI
+│   │   └───CRUDWebAPI
 │   ├───CRUDLibrary2
 │   │   ├───CRUDLibrary2
-│   │   ├───CRUDWebAPI
+│   │   └───CRUDWebAPI
 │   ├───Published
 │   │   ├───ProductsApp
 │   │   ├───secondwebapp
 │   │   └───WebAdp-P
 │   ├───WebAdp
-│   └───webadp2
+│   ├───webadp2
 |   └───WebAPI
 │      
 ├───Lesson
@@ -106,7 +109,7 @@
 │   ├───MovieRank
 │   ├───MovieRank.Contracts
 │   ├───MovieRank.Integration.Tests
-│   ├───MovieRank.Libs
+│   └───MovieRank.Libs
 |
 ├───NodeExcercises
 │   ├───Node
@@ -116,6 +119,12 @@
 ├───Notes
 │   └───ObjectOrientedProgramming
 |
+├───Project
+│   ├───CalculatorApi
+│   ├───CalculatorProgram
+│   ├───CalculatorTests
+│   └───CalculatorWebApi
+|   
 ├───Shapes+Testing
 |   ├───Interfaces
 |   ├───PlaywrightCodegen
