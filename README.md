@@ -59,6 +59,8 @@
 │   ├───dotnetmvc
 │   └───dotnetwebapi
 |
+├───Getting-Started-Terraform
+|
 ├───HangmanProgs
 │   ├───Hangman
 │   └───HangmanWinForms
